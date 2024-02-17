@@ -4,7 +4,7 @@ An Open-Source Gym App for all your needs!
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/CodeRealm-HQ/Gym-App.svg?style=social&label=Star)](https://github.com//CodeRealm-HQ/Gym-App) ![GitHub forks](https://img.shields.io/github/forks/CodeRealm-HQ/Gym-App.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/zerexly.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/CodeRealm-HQ/FitFusion.svg?style=social&label=Star)](https://github.com//CodeRealm-HQ/FitFusion) ![GitHub forks](https://img.shields.io/github/forks/CodeRealm-HQ/FitFusion.svg?style=social&label=Forks)
 
 
 ### What is Expo.io?
